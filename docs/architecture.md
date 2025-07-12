@@ -1,0 +1,1 @@
+Express + Redis queue + MongoDB + Next.js + Socket.IO for real-time updates.
